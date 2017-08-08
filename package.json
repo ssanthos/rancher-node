@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ssanthos/rancher-node.git"
   },
-  "author": "Himanshu Goyal",
+  "author": "Srijith Santhosh",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/ssanthos/rancher-node/issues"
